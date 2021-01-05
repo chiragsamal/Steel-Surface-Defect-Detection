@@ -2,11 +2,6 @@
 This  project  proposes  an  automatic  recognition  approach that classifies and detects steel surface defects present on the steel plates using advanced deep learning methods.
 We trained our model using few layers of EfficientNet B3 and adding few layers by our own  and  finally got a test accuracy of 97%.
 
-### It Performs
-
-		- Classifiaction of Defect present on steel surface into 4 classes
-		- Localization of defect using pixel wise annotation.
-
 ### About Dataset Used
 
 
