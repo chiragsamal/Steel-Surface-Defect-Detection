@@ -2,6 +2,13 @@
 This  project  proposes  an  automatic  recognition  approach that classifies and detects steel surface defects present on the steel plates using advanced deep learning methods.
 We trained our model using few layers of EfficientNet B3 and adding few layers by our own  and  finally got a test accuracy of 97%.
 
+## Main Contributions
+ - Our Defect Detection system consisting of two parts :  Defect classification, and Instance Segmentation of Surface Defects.
+ - For defect inspection on steel plates, the detection task has superior advantages to complicated defects, e.g. multiple defects, multiclass defects and overlapping defects.
+ - Designed and trained a CNN framework using EfficientNet-B3 architecure as initial layers and added few layers at bottom, to build an efficient search-heuristics method for feature extraction and representations from raw pixel and segmenting a masks over the defects using Mask R-CNN. 
+ 
+
+
 ### About Dataset Used
 
 
