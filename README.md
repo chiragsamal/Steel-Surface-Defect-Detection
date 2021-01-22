@@ -15,3 +15,7 @@ We trained our model using few layers of EfficientNet B3 and adding few layers b
 The  high-resolution  steel  surface  defect  dataset  provided by  Severstal  contains  a  large  scale  real-world  industry  steelsurface defect image dataset which has pixel-wise annotation created  by  various  technical  professionals.  The  steel  surface images(256, 1600, 3) contain a total of 14,369 images whichis  of  height  256  px,  the  width  of  1600  px,  and  three  colorchannels(RGB). All the images were classified into defects of four categories or classes.
 
 Dataset Link: [Steel Dataset Link](https://www.kaggle.com/c/severstal-steel-defect-detection/data)
+
+
+## Methodology of this project
+<img src="https://github.com/chiragsamal/Steel-Surface-Defect-Detection/blob/master/Images/methodology.png">
